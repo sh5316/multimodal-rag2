@@ -6,7 +6,10 @@
 
 # 추출 이미지 (용량 폭증 방지)
 data/figures/
-*.pdf
+
+# 피클 파일 (깃허브 업로드 방지)
+*.pkl
+*.pickle
 
 # 벡터 DB
 chroma_db/
