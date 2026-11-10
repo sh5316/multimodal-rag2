@@ -21,6 +21,9 @@ PDF 문서의 **텍스트·표·이미지**를 함께 검색·활용하는 멀�
 ---
 
 ## 2. 아키텍처
+** 다이어 그램**
+<img width="1050" height="1400" alt="KakaoTalk_20261110_134317414" src="https://github.com/user-attachments/assets/5f6a5e14-d6a9-40d1-be5b-03ef4b9d1fc5" />
+
 
 
 **모듈 구성** (`src/`)
